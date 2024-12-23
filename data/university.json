@@ -1,0 +1,67 @@
+{
+    "universitate": {
+      "fakultate": {
+        "nosaukums": "Datorikas fakultate",
+        "studiju_programma": {
+          "nosaukums": "Datorzinatnes",
+          "studiju_kurss": [
+            {
+              "nosaukums": "Datu bazes",
+              "modulis": [
+                {
+                  "nosaukums": "Relaciju datu bazes",
+                  "temats": [
+                    {
+                      "nosaukums": "SQL valoda",
+                      "apraksts": "SQL vaicajumu veidosana un optimizacija",
+                      "kreditpunkti": 2,
+                      "stundu_skaits": 32
+                    },
+                    {
+                      "nosaukums": "Indeksesana",
+                      "apraksts": "Datu bazu indeksu izveide un pielietosana",
+                      "kreditpunkti": 1,
+                      "stundu_skaits": 16
+                    }
+                  ]
+                },
+                {
+                  "nosaukums": "NoSQL datu bazes",
+                  "temats": [
+                    {
+                      "nosaukums": "MongoDB",
+                      "apraksts": "MongoDB datu bazes pamati",
+                      "kreditpunkti": 1,
+                      "stundu_skaits": 16
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nosaukums": "Programmesana",
+              "modulis": [
+                {
+                  "nosaukums": "Java programmesana",
+                  "temats": [
+                    {
+                      "nosaukums": "Objektorienteta programmesana",
+                      "apraksts": "OOP koncepti Java valoda",
+                      "kreditpunkti": 3,
+                      "stundu_skaits": 48
+                    },
+                    {
+                      "nosaukums": "Pavedienu programmesana",
+                      "apraksts": "Pavedieni",
+                      "kreditpunkti": 2,
+                      "stundu_skaits": 32
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

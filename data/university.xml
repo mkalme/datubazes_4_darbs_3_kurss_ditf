@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<universitate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="university.xsd">
+    
+    <fakultate nosaukums="Datorikas fakultate">
+        <studiju_programma nosaukums="Datorzinatnes">
+            <studiju_kurss nosaukums="Datu bazes">
+                <modulis nosaukums="Relaciju datu bazes">
+                    <temats nosaukums="SQL valoda">
+                        <apraksts>SQL vaicajumu veidosana un optimizacija</apraksts>
+                        <kreditpunkti>2</kreditpunkti>
+                        <stundu_skaits>32</stundu_skaits>
+                    </temats>
+                    <temats nosaukums="Indeksesana">
+                        <apraksts>Datu bazu indeksu izveide un pielietosana</apraksts>
+                        <kreditpunkti>1</kreditpunkti>
+                        <stundu_skaits>16</stundu_skaits>
+                    </temats>
+                </modulis>
+                <modulis nosaukums="NoSQL datu bazes">
+                    <temats nosaukums="MongoDB">
+                        <apraksts>MongoDB datu bazes pamati</apraksts>
+                        <kreditpunkti>1</kreditpunkti>
+                        <stundu_skaits>16</stundu_skaits>
+                    </temats>
+                </modulis>
+            </studiju_kurss>
+            <studiju_kurss nosaukums="Programmesana">
+                <modulis nosaukums="Java programmesana">
+                    <temats nosaukums="Objektorienteta programmesana">
+                        <apraksts>OOP koncepti Java valoda</apraksts>
+                        <kreditpunkti>3</kreditpunkti>
+                        <stundu_skaits>48</stundu_skaits>
+                    </temats>
+                    <temats nosaukums="Pavedienu programmesana">
+                        <apraksts>Pavedieni</apraksts>
+                        <kreditpunkti>2</kreditpunkti>
+                        <stundu_skaits>32</stundu_skaits>
+                    </temats>
+                </modulis>
+            </studiju_kurss>
+        </studiju_programma>
+    </fakultate>
+</universitate>
